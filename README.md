@@ -1,4 +1,4 @@
-# EcuacionSegundoGrado
+# Ecuaciones de Segundo Grado
 ### Objetivo: Es un programa que ayuda a entender el comportamiento de las ecuaciones de segundo grado.
 ### Problemática: Realizar un programa que ayude a resolver ecuaciones de segundo grado, con el que identificaremos las raíces de la ecuación y la parábola que forma, utilizando la interfaz gráfica de Python.
 ### El lenguaje como antes lo mencioné será Python, leyendo un poco el documento que la maestra Jeanett nos envió de la estrategia didáctica de una calculadora y supuse que Java y Python es algo "similar" por el cual los alumnos pueden entender mejor dicho lenguaje.
